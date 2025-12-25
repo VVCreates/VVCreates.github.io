@@ -1,0 +1,8 @@
+
+{
+  "name": "AI Chef Assistant",
+  "description": "An intelligent mobile assistant that turns a photo of your fridge into delicious recipes by analyzing ingredients and suggesting creative meals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
